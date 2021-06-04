@@ -18,9 +18,19 @@ Example:
 ---
 
 - [ ] `vscode-polymath` VS Code Syntax Highlighter & Helper Extension
+    - [x] Alpha
+    - [ ] Beta
 - [ ] `language-polymath` Refractor & Prism.js Syntax Highlighter
+    - [x] Alpha
+    - [ ] Beta
 - [ ] `polymath/ast` Library to parse PolyMath into an AST
+    - [x] Alpha
+    - [ ] Beta
 - [ ] `polymath/html` Library to render PolyMath to HTML
+    - [ ] Alpha
+    - [ ] Beta
 - [ ] `react-polymath` Library to render PolyMath to React Components
+    - [x] Alpha
+    - [ ] Beta
 
 [polymath]: https://jwmza.com/polymath
